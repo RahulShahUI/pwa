@@ -1,12 +1,6 @@
 {
-	"name" : "Progressive Web Apps",
-	"short_name" : "PWAGithub",
-	"description" : "Basic Progressive Web application.",
-	"start_url" : "https://www.google.com/",
-	"scope" : "/",
-	"display" : "standalone",
-	"orientation" : "any",
-  "lang" : "English",
+  "name": "Hello World",
+  "short_name": "Hello",
   "icons": [{
     "src": "images/hello-icon-128.png",
       "sizes": "128x128",
@@ -32,4 +26,9 @@
       "sizes": "512x512",
       "type": "image/png"
     }],
+  "lang": "en-US",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "white"
 }
