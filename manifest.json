@@ -1,18 +1,13 @@
 {
-	"dir" : "ltr",
-	"lang" : "EN",
 	"name" : "Progressive Web Apps",
+	"short_name" : "PWAGithub",
+	"description" : "Basic Progressive Web application.",
+	"start_url" : "https://www.google.com/",
 	"scope" : "/",
 	"display" : "standalone",
-	"start_url" : "https://www.google.com/",
-	"short_name" : "PWAGithub",
-	"theme_color" : "#000000",
-	"description" : "Basic Progressive Web application.",
 	"orientation" : "any",
-	"background_color" : "#000000",
-	"related_applications" : "",
-	"prefer_related_applications" : "false",
-	"icons": [{
+  "lang" : "English",
+  "icons": [{
     "src": "images/hello-icon-128.png",
       "sizes": "128x128",
       "type": "image/png"
@@ -37,5 +32,4 @@
       "sizes": "512x512",
       "type": "image/png"
     }],
-	"generated" : "undefined"
 }
