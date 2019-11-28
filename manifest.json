@@ -1,7 +1,18 @@
 {
-  "name": "Hello World",
-  "short_name": "Hello",
-  "icons": [{
+	"dir" : "ltr",
+	"lang" : "EN",
+	"name" : "Progressive Web Apps",
+	"scope" : "/",
+	"display" : "standalone",
+	"start_url" : "https://www.google.com/",
+	"short_name" : "PWAGithub",
+	"theme_color" : "#000000",
+	"description" : "Basic Progressive Web application.",
+	"orientation" : "any",
+	"background_color" : "#000000",
+	"related_applications" : "",
+	"prefer_related_applications" : "false",
+	"icons": [{
     "src": "images/hello-icon-128.png",
       "sizes": "128x128",
       "type": "image/png"
@@ -26,9 +37,5 @@
       "sizes": "512x512",
       "type": "image/png"
     }],
-  "lang": "en-US",
-  "start_url": "index.html",
-  "display": "standalone",
-  "background_color": "white",
-  "theme_color": "white"
+	"generated" : "undefined"
 }
