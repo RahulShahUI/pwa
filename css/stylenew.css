@@ -236,6 +236,7 @@ html,
         }
         .order-heading{
             font-size: 3.2em !important;
+                color: red !important;
         }
         .notify-top {
             padding: 30px 0px 15px 0px !important;
